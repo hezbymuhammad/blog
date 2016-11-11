@@ -31,6 +31,7 @@ Caranya mudah. Cukup install perl dan pasang library markdown.
 ### Ada nggak cara lain yang lebih mudah?
 
 Ada. Rekomendasi saya adalah dengan menggunakan Sublime Text 3. Dengan menggunakan ST3, kamu dapat menggunakan markdown dengan mudah.
+
  1. Buka Sublime Text 3. Jika belum download silahkan download dan install ST3 terlebih dahulu [disini](http://www.sublimetext.com/3).
  2. Buka package manager dengan menggunakan perintah `ctrl+shift+p`. Jika kamu belum memiliki package manager, install terlebih dahulu [disini](https://packagecontrol.io/installation).
  3. Pilih menu Install Package.
@@ -78,6 +79,7 @@ Ordered list atau daftar terurut adalah penomeran dari daftar item. Pembuatan `<
 ### Unordered List
 
 Unorderet list atau daftar tak terurut dibuat dengan cara yang hampir sama dengan ordered list, namun jika ordered list menggunakan angka unordered list menggunakan `*`
+
  * Satu
  * Dua
  * Tiga
@@ -85,7 +87,9 @@ Unorderet list atau daftar tak terurut dibuat dengan cara yang hampir sama denga
 ### Hyperlink
 
 Hyperlink pada markdown cukup singkat. Untuk membuat `<a href='http://yourlink.com'>Your Link</a>` cukup ketikkan syntax `[Your Link](http://yourlink.com)`.
+
 ### Horizontal Rule
+
 Horizontal rule pada markdown dapat dibuat dengan syntax `---` lalu ketik `enter`. Syntax ini akan menghasilkan:
 
 ---
