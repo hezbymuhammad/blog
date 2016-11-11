@@ -11,7 +11,7 @@ Tutorial markdown bahasa Indoensia. Versi resmi how-to markdown (berbahasa inggr
 
 ## Environment
 
-Penulis menggunakan sistem operasi windows 8.1. Sistem operasi lain bisa menyesuaikan dengan penjelasan dibawah.
+Penulis menggunakan sistem operasi Elementary OS Loki. Sistem operasi lain bisa menyesuaikan dengan penjelasan dibawah.
 
 ## Bagian Membosankan: Teori
 
