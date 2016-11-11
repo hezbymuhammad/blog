@@ -1,34 +1,26 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: About Hezby
 image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: me-bw.png
 comments: false
-modified: 2014-12-24
+modified: 2016-11-11
+output: 
+  html_document:
+     self_contained: no
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+[<i class="fa fa-envelope"></i>](mailto:hezbymuhammad@gmail.com) [<i class="fa fa-twitter"></i>](http://twitter.com/muhammadhezby) [<i class="fa fa-linkedin"></i>](https://id.linkedin.com/in/hezby) [<i class="fa fa-github"></i>](http://github.com/hezbymuhammad)
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+Hezby is a bachelor of Computer Science. He's got his bachelor degree from one of the top 10 universities in Indonesia. He is a hard working and passionate individual with proven computer programming skills. He continues to challenge himself towards today's ever- changing technologies.
 
-## What HPSTR brings to the table:
+## His work experience:
+* Develop data driven platform at Bureau of Administratif and Information System (2013 - 2015)
+* Web Developer at Sebelas Maret University (2013)
+* Researcher at Sebelas Maret University (2015 - 2016)
+* Media Development at Rumah Hebat Indonesia (2014)
 
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Built-in support for Sass courtesy of Jekyll 2.x.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy.
+His main interest is Data Science which is emerging field in computer science nowadays. While currently doing research in data mining, his dream is to become aspiring data scientist who are able to lead big data revolution in Indonesia.
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
-
-[^1]: Example: *domain.com/category-name/post-title*
+## His research:
+* Implementation of Jaccard Similarity on Apriori as Additional Evaluation Framework
