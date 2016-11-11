@@ -38,7 +38,6 @@ bing_verify:
 timezone:    Asia/Jakarta
 future:      true
 highlighter: pygments
-markdown:    redcarpet
 gems:
   - jekyll-sitemap
 sass:
