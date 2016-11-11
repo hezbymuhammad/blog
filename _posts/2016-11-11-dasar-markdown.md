@@ -45,7 +45,7 @@ Ada. Rekomendasi saya adalah dengan menggunakan Sublime Text 3. Dengan menggunak
 ### Oke, aku siap untuk membuat markdown. Lalu apa?
 Kamu dapat mempelajari syntax markdown. Bagian dibawah akan menjelaskan lebih lanjut tentang syntax markdown.
 
-## Funny Time
+## Fun Time
 
 ### Paragraf
 
