@@ -15,7 +15,7 @@ output:
 Hezby is a bachelor of Computer Science. He's got his bachelor degree from one of the top 10 universities in Indonesia. He is a hard working and passionate individual with proven computer programming skills. He continues to challenge himself towards today's ever- changing technologies.
 
 ## His work experience:
-* Develop data driven platform at Bureau of Administratif and Information System (2013 - 2015)
+* Data driven platform developer at Information System of Sebelas Maret University (2013 - 2015)
 * Web Developer at Sebelas Maret University (2013)
 * Researcher at Sebelas Maret University (2015 - 2016)
 * Media Development at Rumah Hebat Indonesia (2014)
