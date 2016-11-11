@@ -7,7 +7,7 @@ tags: [markdown, tutorial, basic]
 share: true
 ---
 
-This article use Indonesian language. If you prefer English, feel free to visit how-to markdown [here](http://daringfireball.net/projects/markdown/ "Daringfireball Markdown") or [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Cheatsheet").
+This article use Indonesian language. If you prefer English, feel free to visit markdown fundamental guide [here](http://daringfireball.net/projects/markdown/ "Daringfireball Markdown") or [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Cheatsheet").
 
 ## Environment
 
