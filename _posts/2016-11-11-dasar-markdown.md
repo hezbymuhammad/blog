@@ -6,7 +6,7 @@ modified: 2016-11-11
 tags: [markdown, tutorial, basic]
 share: true
 image:
-  feature: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/2000px-Markdown-mark.svg.png
+  feature: 2000px-Markdown-mark.svg.png
   credit: Dustin Curtis
   creditlink: https://github.com/dcurtis/markdown-mark/blob/master/LICENSE
 ---
