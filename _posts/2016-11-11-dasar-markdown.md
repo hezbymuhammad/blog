@@ -26,7 +26,7 @@ Caranya mudah. Cukup install perl dan pasang library markdown.
  1. Pertama-tama komputer atau laptop kamu harus sudah terinstall perl, jika belum kamu bisa download dari [sini](http://strawberryperl.com/).
  2. Jika sudah terinstall perl, kamu bisa mendownload library markdown dari [sini](http://daringfireball.net/projects/downloads/Markdown_1.0.1.zip).
  3. Buat file markdown. Jika kamu belum bisa membuat, kamu bisa menggunakan contoh file markdown [disini](Simple.md)
- 4. Compile file markdown dengan perintah `perl Markdown.pl --html4tags file_kamu.md`. Perintah tersebut akan menghasilkan output file html yang dapat kamu buka lewat browser.
+ 4. Compile file markdown dengan perintah `perl Markdown.pl --html4tags file_kamu.md` Perintah tersebut akan menghasilkan output file html yang dapat kamu buka lewat browser.
 
 ### Ada nggak cara lain yang lebih mudah?
 
