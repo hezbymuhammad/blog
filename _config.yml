@@ -37,7 +37,8 @@ bing_verify:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Jakarta
 future:      true
-highlighter: rouge
+highlighter: pygments
+markdown:    redcarpet
 gems:
   - jekyll-sitemap
 sass:
