@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyll Change Redcarpet to Kramdown
+title: Change Jekyll Markdown Parser from Redcarpet to Kramdown
 description: "Starting May 1st, 2016, Github only support Kramdown as Markdown parser. This post is about what you should done on updating Redcarpet to Kramdown."
 modified: 2016-11-12
 tags: [markdown, tutorial, troubleshoot, tips, experience, bug, update]
