@@ -30,7 +30,8 @@ to
 
 ## Install Dependency
 Dont forget to add following lines to your gemfile.
-```
+
+```yaml
    gem 'rouge'
    gem 'kramdown'
 ```
