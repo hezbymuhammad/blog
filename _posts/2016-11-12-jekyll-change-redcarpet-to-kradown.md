@@ -6,13 +6,14 @@ modified: 2016-11-12
 tags: [markdown, tutorial, troubleshoot, tips, experience, bug, update]
 share: true
 ---
-
+## Why Change?
 Redcarpet and Pygments is a widely used markdown parser and highlighter. I have already used it for a long time. Recently, i received many warning email from github regarding of the change between Redcarpet to Kramdown. [Starting May 1st, 2016](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), Github only support Kramdown as Markdown parser and Rouge as highlighter. It stated that the use of Kramdown and Rouge boost it performance.
 
 ## The Problem
 It turns out that changing between Redcarpet and Pygments to Kramdown and Rouge is not that simple. You cannot just change ```_config.yml```. There is some issue that should be fixed first.
 
-## Modify ```_config.yml```
+## Resolve
+### Modify ```_config.yml```
 First you must modify your ```_config.yml```. Change following lines
 
 ```yaml
@@ -31,7 +32,7 @@ to
       syntax_highlighter: rouge
 ```
 
-## Install Dependency
+### Install Dependency
 Dont forget to add following lines to your gemfile.
 
 ```yaml
@@ -39,7 +40,7 @@ Dont forget to add following lines to your gemfile.
    gem 'kramdown'
 ```
 
-## Update
+### Update
 After all those two steps complete, run
 
     bundle install
