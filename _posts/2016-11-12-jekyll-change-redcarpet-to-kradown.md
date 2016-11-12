@@ -39,7 +39,7 @@ Dont forget to add following lines to your gemfile.
 ## Update
 After all those two steps complete, run
 
-    bundle install
+     bundle install
     bundle update
 
 ## My Issue
