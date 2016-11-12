@@ -32,7 +32,7 @@ background:
 google_analytics: UA-87249723-1
 google_verify: lfusV_Pl8RLRZQU998P5jVgUGJm06CA8EVmJYu_oGpc
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify: B386F08EF5ED37A9CA6449B08E539961
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Jakarta
