@@ -16,6 +16,7 @@ Redcarpet and Pygments is a widely used markdown parser and highlighter. I have 
 It turns out that changing between Redcarpet and Pygments to Kramdown and Rouge is not that simple. You cannot just change ```_config.yml```. There is some issue that should be fixed first.
 
 ## Resolve
+In order to get rid of the problem, one should simply follow these steps.
 
 ### Modify ```_config.yml```
 
