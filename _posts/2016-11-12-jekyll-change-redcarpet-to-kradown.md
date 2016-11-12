@@ -46,7 +46,7 @@ After all those two steps complete, run
     bundle update
 
 ## My Issue
-After update, i faced jekyll-pagination issue. It should resolved by modifying following lines
+After update, i faced jekyll-pagination issue. It should simply resolved by modifying following lines
 
 ```yaml
 gems:
