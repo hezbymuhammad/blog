@@ -14,11 +14,14 @@ It turns out that changing between Redcarpet and Pygments to Kramdown and Rouge 
 
 ## Modify _config.yml
 First you must modify your config file. Change following lines
+
 ```yaml
    highlighter: pygments
    markdown: redcarpet
 ```
+
 to
+
 ```yaml
    highlighter: rouge
    markdown: kramdown
@@ -39,16 +42,19 @@ Dont forget to add following lines to your gemfile.
 ## Update
 After all those two steps complete, run
 
-     bundle install
+    bundle install
     bundle update
 
 ## My Issue
 After update, i faced jekyll-pagination issue. It should resolved by modifying following lines
+
 ```yaml
 gems:
   - jekyll-sitemap
 ```
+
 to
+
 ```yaml
 gems:
   - jekyll-sitemap
