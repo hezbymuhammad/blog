@@ -5,6 +5,10 @@ description: "Starting May 1st, 2016, Github only support Kramdown as Markdown p
 modified: 2016-11-12
 tags: [markdown, tutorial, troubleshoot, tips, experience, bug, update]
 share: true
+image:
+  feature: abstract-8.jpg
+  credit: dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
 Redcarpet and Pygments is a widely used markdown parser and highlighter. I have already used it for a long time. Recently, i received many warning email from github regarding of the change between Redcarpet to Kramdown. [Starting May 1st, 2016](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), Github only support Kramdown as Markdown parser and Rouge as highlighter. It stated that the use of Kramdown and Rouge boost it performance.
