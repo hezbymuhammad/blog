@@ -59,14 +59,14 @@ After all those two steps complete, run
 After update, i faced jekyll-pagination issue. It should simply resolved by modifying following lines on your ```_config.yml```
 
 ```yaml
-gems:
-  - jekyll-sitemap
+   gems:
+      - jekyll-sitemap
 ```
 
 to
 
 ```yaml
-gems:
-  - jekyll-sitemap
-  - jekyll-paginate
+   gems:
+      - jekyll-sitemap
+      - jekyll-paginate
 ```
