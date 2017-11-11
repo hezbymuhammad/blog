@@ -1,4 +1,3 @@
-# When Rails Meet AMP
 ## Lesson Learned from Implementing Accelerated Mobile Pages (AMP) on Karir.com.
 
 ### About AMP
